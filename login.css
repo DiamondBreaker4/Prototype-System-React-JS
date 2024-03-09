@@ -1,0 +1,13 @@
+body {
+    background-image: url('../../public/images/city_hall.jpg');
+    background-size: cover;
+}
+p{
+    font-weight: bold;
+}
+
+.login-form {
+    background-color: hsl(0, 0%, 95%); /* White with 50% opacity */
+    border-radius: 10px;
+    padding: 20px;
+}
